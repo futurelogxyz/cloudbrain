@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      RSS: "/index.xml",
+      RSS: "/courtyard/index.xml",
       Stats: "https://eu.umami.is/share/Q9zwxbCD0wasb41u/Futurelog%20Courtyard",
       Futurelog: "https://futurelog.xyz",
     },
