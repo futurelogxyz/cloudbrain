@@ -24,7 +24,7 @@ draft: false
 
 [**>>> All Readings**](/reading/) 
 
-[**>>> All Mindflows**](/mindflow/) 
+[**>>> All Thoughts**](/thought/) 
 
 <br />
 
