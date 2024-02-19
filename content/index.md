@@ -20,11 +20,11 @@ draft: false
 
 <br />
 
-[**>>> All Writings**](/courtyard/writing/) 
+[**>>> All Writings**](/writing/) 
 
-[**>>> All Readings**](/courtyard/reading/) 
+[**>>> All Readings**](/reading/) 
 
-[**>>> All Mindflows**](/courtyard/mindflow/) 
+[**>>> All Mindflows**](/mindflow/) 
 
 <br />
 
