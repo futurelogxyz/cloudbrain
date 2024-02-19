@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      RSS: "/courtyard/index.xml",
+      RSS: "/cloudbrain/index.xml",
       Stats: "https://eu.umami.is/share/Q9zwxbCD0wasb41u/Futurelog%20Courtyard",
       Futurelog: "https://futurelog.xyz",
     },
@@ -26,7 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    Component.DesktopOnly(Component.Search()),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
 

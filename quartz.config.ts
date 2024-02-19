@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🧠🌿 The Matrix",
+    pageTitle: "🫧💭 CloudBrain",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "umami",
       websiteId: "07a81fcd-d6b3-4f41-9b67-e5a319451c26",
     },
-    baseUrl: "https://futurelog.xyz/courtyard",
+    baseUrl: "https://futurelog.xyz/cloudbrain",
     ignorePatterns: ["private", "templates", ".obsidian", "memo"],
     defaultDateType: "created",
     theme: {
