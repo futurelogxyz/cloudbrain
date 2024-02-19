@@ -11,7 +11,7 @@ const config: QuartzConfig = {
       websiteId: "07a81fcd-d6b3-4f41-9b67-e5a319451c26",
     },
     baseUrl: "https://futurelog.xyz/cloudbrain",
-    ignorePatterns: ["private", "templates", ".obsidian", "memo"],
+    ignorePatterns: ["private", "templates", ".obsidian", "writing/memo"],
     defaultDateType: "created",
     theme: {
       typography: {
