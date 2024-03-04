@@ -4,15 +4,16 @@ bookId: CB_7aKDRgDPcD216lt6kfGvp4T1
 author: ""
 cover: https://res.weread.qq.com/wrepub/CB_7aKDRgDPcD216lt6kfGvp4T1_parsecover
 reviewCount: 1
-noteCount: 10
-readingStatus: 未标记
-progress: 53%
-totalReadDay: 4
-readingTime: 4小时49分钟
+noteCount: 12
+readingStatus: 读完
+progress: 100%
+totalReadDay: 7
+readingTime: 7小时43分钟
 readingDate: 2024-01-25
 isbn: 
 category: 
-lastReadDate: 2024-01-28
+lastReadDate: 2024-02-13
+finishedDate: 2024-02-13
 
 ---
 # 元数据
@@ -73,6 +74,16 @@ lastReadDate: 2024-01-28
 
 - 📌 When it comes to deadlines in gRPC, both the client and server can make their own independent and local determination about whether the RPC wassuccessful; this means their conclusions may not match.  ^CB-7aKDRgDPcD216lt6kfGvp4T1-55-16341-16602
     - ⏱ 2024-01-28 16:43:50 
+## Enabling Extra Logging
+
+
+- 📌 One of the most common ways of debugging gRPC applications is by using extra logging.  ^CB-7aKDRgDPcD216lt6kfGvp4T1-88-2251-2336
+    - ⏱ 2024-02-13 11:19:08 
+## The gRPC Server Reflection Protocol
+
+
+- 📌 With the gRPC server reflection, we don’t need to precompile service definitions to communicate with the service.  ^CB-7aKDRgDPcD216lt6kfGvp4T1-92-4497-4673
+    - ⏱ 2024-02-13 11:29:56 
 # 读书笔记
 
 ## REST

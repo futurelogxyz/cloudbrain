@@ -3,8 +3,6 @@ title: xxx_title
 date: 2024-02-19
 draft: true
 tags:
-  - writing
-  - engineering
   - LLM
 ---
 
