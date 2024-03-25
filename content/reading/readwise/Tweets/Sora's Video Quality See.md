@@ -1,9 +1,13 @@
+
 ---
-author: [[@thatguybg on Twitter]]
+author: thatguybg on Twitter
 title: Sora's Video Quality See...
-category: #tweets
+category: #tweets 
 url: https://twitter.com/thatguybg/status/1759935959792312461
+
 ---
+
+
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1610717241305337857/CYub7vgW.jpg)
 
 ## Metadata

@@ -1,9 +1,12 @@
+
 ---
-author: [[@karpathy on Twitter]]
+author: karpathy on Twitter
 title: Tweets From Andrej Karpathy
 category: #tweets
 url: https://twitter.com/karpathy
+
 ---
+
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB.jpg)
 
 ## Metadata
